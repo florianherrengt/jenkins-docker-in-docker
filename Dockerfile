@@ -1,5 +1,5 @@
 FROM jenkins
-MAINTAINER jerome.petazzoni@docker.com
+MAINTAINER florian.herrengt@gmail.com
 
 USER root
 
